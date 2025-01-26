@@ -5,3 +5,5 @@ Ingredients
 - spring onion
 - bacon bites
 - couple of cherry tomatoes
+
+NB: Quick oatmeal can be added to the side with fresh fruit.
