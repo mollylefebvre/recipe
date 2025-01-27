@@ -1,3 +1,5 @@
+Let's begin!
+
 Ingredients
 - slice of bread
 - 1 egg
@@ -7,3 +9,5 @@ Ingredients
 - couple of cherry tomatoes
 
 NB: Quick oatmeal can be added to the side with fresh fruit.
+
+Enjoy my recipe!
