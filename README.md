@@ -1,7 +1,14 @@
-# recipe ### This is a LOCAL change :) !
-line 2 changed remotely Everyday breakfast
+# Recipe Repository 
 
-This is the recipe to make the breasfast I have every morning, with a cup of coffee, as usual. ?
+This repository keeps track of all of my favourite recipes.
 
-by Molly Lefebvre
-last line changed locally ### This is a REMOTE change :O
+1. Everyday Breakfast
+2. Quesadilla
+3. Bacon-crusted salmon
+
+### Everyday breakfast
+
+This document is the recipe for the breakfast I have every morning, with a cup of coffee, as usual.
+![Egg on toast](recipe.jpg 'Everyday breakfast')
+
+*by Molly Lefebvre*
